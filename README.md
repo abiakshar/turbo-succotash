@@ -1,2 +1,2 @@
 # turbo-succotash
-This branch contains projects of Tableau
+This branch deals with Data Visualization projects using Tableau10
