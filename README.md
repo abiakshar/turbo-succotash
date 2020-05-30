@@ -1,4 +1,5 @@
 # turbo-succotash
-Battle of Neighborhood - Best spot selection to open a new business
-In this project I analysed 5 boroughs of New York City(NYC) using various data science techniques to identify suitable place 
-to open an Indian Restaurant.
+# Web Scrapping Code:
+This project focus on web scrapping using BeautifulSoup. Here I scrapped the Postal Codes of Canada from wikipedia and convereted 
+into fruitful DataFrame for further analysis.
+
