@@ -1,5 +1,5 @@
 # turbo-succotash
-# Web Scrapping Code:
+### Web Scrapping
 This project focus on web scrapping using BeautifulSoup. Here I scrapped the Postal Codes of Canada from wikipedia and convereted 
 into fruitful DataFrame for further analysis.
 
